@@ -1,0 +1,21 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{Введение}{3}{}%
+\contentsline {section}{\numberline {1}Глубоко неупругое рассеяние}{6}{}%
+\contentsline {subsection}{\numberline {1.1}Кинематика глубоко неупругого рассеяния}{6}{}%
+\contentsline {subsection}{\numberline {1.2}Сечение глубоко неупругого рассеяния}{8}{}%
+\contentsline {section}{\numberline {2}Партонная модель}{12}{}%
+\contentsline {subsection}{\numberline {2.1}Скейлинг Бьёркена и структурные функции}{12}{}%
+\contentsline {subsection}{\numberline {2.2}Партонные функции распределения}{12}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Коллинеарные партонные функции}{12}{}%
+\contentsline {subsection}{\numberline {2.3}Поляризация частиц}{13}{}%
+\contentsline {section}{\numberline {3}Фрагментация и адронизация кварков}{15}{}%
+\contentsline {subsection}{\numberline {3.1}Модель адронизации Лунда}{15}{}%
+\contentsline {subsection}{\numberline {3.2}Модель 3P0}{16}{}%
+\contentsline {section}{\numberline {4}Азимутальные асимметрии}{17}{}%
+\contentsline {subsection}{\numberline {4.1}Асимметрия Коллинза}{17}{}%
+\contentsline {subsection}{\numberline {4.2}Асимметрия Сиверса}{17}{}%
+\contentsline {section}{\numberline {5}Эксперимент HERMES}{18}{}%
+\contentsline {subsection}{\numberline {5.1}Асимметрии образовавшихся пионов}{18}{}%
+\contentsline {subsection}{\numberline {5.2}Асимметрии образовавшихся каонов}{18}{}%
+\contentsline {section}{\numberline {6}Моделирование процессов в PYTHIA}{19}{}%
+\contentsline {subsection}{\numberline {6.1}Поляризация в PYTHIA}{19}{}%
