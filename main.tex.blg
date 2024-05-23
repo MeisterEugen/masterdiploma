@@ -1,5 +1,5 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'main.tex.blg'
-[83] biber:340> INFO - === Чт мая 16, 2024, 16:06:05
-[170] Utils.pm:410> ERROR - Cannot find 'main.tex.bcf'!
-[170] Biber.pm:136> INFO - ERRORS: 1
+[66] biber:340> INFO - === Чт мая 23, 2024, 16:20:45
+[165] Utils.pm:410> ERROR - Cannot find 'main.tex.bcf'!
+[166] Biber.pm:136> INFO - ERRORS: 1

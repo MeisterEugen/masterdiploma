@@ -38,11 +38,42 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Phys. Rev. Lett.}
-      \field{title}{Observed behavior of highly inelastic electron-proton scattering}
+      \field{title}{Observed behavior of highly inelasticelectron-proton scattering}
       \field{volume}{23}
       \field{year}{1969}
       \field{pages}{935}
       \range{pages}{1}
+    \endentry
+    \entry{LUND}{url}{}
+      \name{author}{2}{}{%
+        {{hash=791b627f79295c31662ebb49d2488897}{%
+           family={Ferreres-Sole},
+           familyi={F\bibinithyphendelim S\bibinitperiod},
+           given={Silvia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6e0c7f4b17c5d6cfbd0bda5a38653610}{%
+           family={Sjostrand},
+           familyi={S\bibinitperiod},
+           given={Torbjorn},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{8df2851b02c98bdbb41b52be0cad68d3}
+      \strng{fullhash}{8df2851b02c98bdbb41b52be0cad68d3}
+      \strng{bibnamehash}{8df2851b02c98bdbb41b52be0cad68d3}
+      \strng{authorbibnamehash}{8df2851b02c98bdbb41b52be0cad68d3}
+      \strng{authornamehash}{8df2851b02c98bdbb41b52be0cad68d3}
+      \strng{authorfullhash}{8df2851b02c98bdbb41b52be0cad68d3}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{quant-ph}
+      \field{eprinttype}{arXiv}
+      \field{title}{The Space–Time Structure of Hadronization in the Lund Model}
+      \field{year}{2018}
+      \verb{eprint}
+      \verb 1808.04619
+      \endverb
     \endentry
     \entry{Hagler}{article}{}
       \name{author}{1}{}{%
@@ -95,6 +126,7 @@
       \range{pages}{104}
     \endentry
   \enddatalist
+  \missing{Callan-Gross}
 \endrefsection
 \endinput
 
