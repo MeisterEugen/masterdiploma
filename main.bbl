@@ -19,87 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{ntvy/global//global/global}
-    \entry{Breidenbach}{article}{}
-      \name{author}{1}{}{%
-        {{hash=12c36c97b90139329c72ba6b3f22891c}{%
-           family={Breidenbach},
-           familyi={B\bibinitperiod},
-           given={M},
-           giveni={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{12c36c97b90139329c72ba6b3f22891c}
-      \strng{fullhash}{12c36c97b90139329c72ba6b3f22891c}
-      \strng{bibnamehash}{12c36c97b90139329c72ba6b3f22891c}
-      \strng{authorbibnamehash}{12c36c97b90139329c72ba6b3f22891c}
-      \strng{authornamehash}{12c36c97b90139329c72ba6b3f22891c}
-      \strng{authorfullhash}{12c36c97b90139329c72ba6b3f22891c}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Phys. Rev. Lett.}
-      \field{title}{Observed behavior of highly inelasticelectron-proton scattering}
-      \field{volume}{23}
-      \field{year}{1969}
-      \field{pages}{935}
-      \range{pages}{1}
-    \endentry
-    \entry{LUND}{url}{}
-      \name{author}{2}{}{%
-        {{hash=791b627f79295c31662ebb49d2488897}{%
-           family={Ferreres-Sole},
-           familyi={F\bibinithyphendelim S\bibinitperiod},
-           given={Silvia},
-           giveni={S\bibinitperiod}}}%
-        {{hash=6e0c7f4b17c5d6cfbd0bda5a38653610}{%
-           family={Sjostrand},
-           familyi={S\bibinitperiod},
-           given={Torbjorn},
-           giveni={T\bibinitperiod}}}%
-      }
-      \strng{namehash}{8df2851b02c98bdbb41b52be0cad68d3}
-      \strng{fullhash}{8df2851b02c98bdbb41b52be0cad68d3}
-      \strng{bibnamehash}{8df2851b02c98bdbb41b52be0cad68d3}
-      \strng{authorbibnamehash}{8df2851b02c98bdbb41b52be0cad68d3}
-      \strng{authornamehash}{8df2851b02c98bdbb41b52be0cad68d3}
-      \strng{authorfullhash}{8df2851b02c98bdbb41b52be0cad68d3}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{eprintclass}{quant-ph}
-      \field{eprinttype}{arXiv}
-      \field{title}{The Space–Time Structure of Hadronization in the Lund Model}
-      \field{year}{2018}
-      \verb{eprint}
-      \verb 1808.04619
-      \endverb
-    \endentry
-    \entry{Hagler}{article}{}
-      \name{author}{1}{}{%
-        {{hash=b84a6db77f31338df11acd08c0d1d3a5}{%
-           family={Hagler},
-           familyi={H\bibinitperiod},
-           given={P},
-           giveni={P\bibinitperiod}}}%
-      }
-      \strng{namehash}{b84a6db77f31338df11acd08c0d1d3a5}
-      \strng{fullhash}{b84a6db77f31338df11acd08c0d1d3a5}
-      \strng{bibnamehash}{b84a6db77f31338df11acd08c0d1d3a5}
-      \strng{authorbibnamehash}{b84a6db77f31338df11acd08c0d1d3a5}
-      \strng{authornamehash}{b84a6db77f31338df11acd08c0d1d3a5}
-      \strng{authorfullhash}{b84a6db77f31338df11acd08c0d1d3a5}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Phys. Rept.}
-      \field{title}{Hadron structure from lattice quantum chromodynamics}
-      \field{volume}{490}
-      \field{year}{2010}
-      \field{pages}{49}
-      \range{pages}{1}
-    \endentry
     \entry{Hofstadter}{article}{}
       \name{author}{1}{}{%
         {{hash=b9c43f50788d8760784680e4bda2cb64}{%
@@ -126,7 +45,6 @@
       \range{pages}{104}
     \endentry
   \enddatalist
-  \missing{Callan-Gross}
 \endrefsection
 \endinput
 
