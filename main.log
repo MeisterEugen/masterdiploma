@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.5.15)  24 MAY 2024 17:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.5.15)  27 MAY 2024 15:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**main.tex
+**main
 (./main.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -295,7 +295,24 @@ Package: babel 2024/02/07 v24.2 The Babel package
 (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count197
+Package babel Info: Main language set with 'main='. Except if you have
+(babel)             problems, prefer the default mechanism for setting
+(babel)             the main language, ie, as the last declared.
+(babel)             Reported on input line 4169.
 
+(/usr/share/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'british' set to \l@english
+(babel)             (\language0). Reported on input line 82.
+Package babel Info: Hyphen rules for 'UKenglish' set to \l@english
+(babel)             (\language0). Reported on input line 83.
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@english
+(babel)             (\language0). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@english
+(babel)             (\language0). Reported on input line 108.
+)
 (/usr/share/texmf-dist/tex/generic/babel-russian/russianb.ldf
 File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
 Language: russian 2020/09/09 1.3k Russian support for the Babel system
@@ -305,6 +322,10 @@ Package babel Info: Default for \cyrdash is provided on input line 163.
 (/usr/share/texmf-dist/tex/generic/babel/locale/ru/babel-russian.tex
 Package babel Info: Importing font and identification data for russian
 (babel)             from babel-ru.ini. Reported on input line 11.
+)
+(/usr/share/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
 )
 (/usr/share/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2023/10/27 v2.16 Sectioning titles
@@ -762,7 +783,8 @@ File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
 topaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (/usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty
+))) (/usr/share/texmf-dist/tex/latex/braket/braket.sty)
+(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
 
 (/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
@@ -863,7 +885,7 @@ Package biblatex Info: ... file 'blx-dm.def' found.
 File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'numeric-comp.dbx' not found.
+Package biblatex Info: ... file 'numeric.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@afterword=\count361
@@ -973,41 +995,24 @@ File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 \biburllcskip=\muskip21
 \c@smartand=\count437
 )
-Package biblatex Info: Trying to load bibliography style 'gost-numeric'...
-Package biblatex Info: ... file 'gost-numeric.bbx' found.
- (./gost-numeric.bbx
-File: gost-numeric.bbx 2023/04/25 v1.24 biblatex-gost styles
-Package biblatex Info: Trying to load bibliography style 'gost-standard'...
-Package biblatex Info: ... file 'gost-standard.bbx' found.
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex-gost/gost-standard.bbx
-File: gost-standard.bbx 2023/04/25 v1.24 biblatex-gost styles
-Package biblatex Info: Trying to load biblatex-gost generic definitions...
-Package biblatex Info: ... file 'biblatex-gost.def' found.
+(/usr/share/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex-gost/biblatex-gost.def
-File: biblatex-gost.def 2023/04/25 v1.24 biblatex-gost styles
-)
-\c@blx@gost@pointer=\count438
-\c@bbx:relatedcount=\count439
-\c@bbx:relatedtotal=\count440
-Package biblatex Info: Redefining autocite command 'footnote'.
-Package biblatex Info: Redefining autocite command 'superscript'.
+(/usr/share/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count438
+\c@bbx:relatedtotal=\count439
 ))
-Package biblatex Info: Trying to load citation style 'gost-numeric'...
-Package biblatex Info: ... file 'gost-numeric.cbx' found.
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex-gost/gost-numeric.cbx
-File: gost-numeric.cbx 2023/04/25 v1.24 biblatex-gost styles
-Package biblatex Info: Trying to load citation style 'numeric-comp'...
-Package biblatex Info: ... file 'numeric-comp.cbx' found.
-
-(/usr/share/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
-File: numeric-comp.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
-\c@cbx@tempcnta=\count441
-\c@cbx@tempcntb=\count442
-\c@cbx@tempcntc=\count443
-\c@cbx@tempcntd=\count444
+(/usr/share/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -1019,7 +1024,7 @@ Package biblatex Info: Redefining '\textcites'.
 Package biblatex Info: Redefining '\cites'.
 Package biblatex Info: Redefining '\parencites'.
 Package biblatex Info: Redefining '\smartcites'.
-))
+)
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
@@ -1034,7 +1039,7 @@ Package: expl3 2024-02-20 L3 programming layer (loader)
 
 (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count445
+\l__color_backend_stack_int=\count440
 \l__pdf_internal_box=\box65
 ))
 Package biblatex Info: ... and expl3
@@ -1056,34 +1061,34 @@ Package csquotes Info: Redefining alias 'default' -> 'russian'.
 (./title.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
  (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count446
+\scratchcounter=\count441
 \scratchdimen=\dimen281
 \scratchbox=\box66
-\nofMPsegments=\count447
-\nofMParguments=\count448
+\nofMPsegments=\count442
+\nofMParguments=\count443
 \everyMPshowfont=\toks40
-\MPscratchCnt=\count449
+\MPscratchCnt=\count444
 \MPscratchDim=\dimen282
-\MPnumerator=\count450
-\makeMPintoPDFobject=\count451
+\MPnumerator=\count445
+\makeMPintoPDFobject=\count446
 \everyMPtoPDFconversion=\toks41
 ) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1094,7 +1099,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \th on input line 40.
+LaTeX Info: Redefining \th on input line 41.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1132,22 +1137,17 @@ LaTeX Info: Redefining \th on input line 40.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-Package biblatex Info: Trying to load language 'russian' -> 'russian-gost'...
-Package biblatex Info: ... file 'russian-gost.lbx' found.
-(/usr/share/texmf-dist/tex/latex/biblatex-gost/russian-gost.lbx
-File: russian-gost.lbx 2023/04/25 v1.24 biblatex-gost styles
 Package biblatex Info: Trying to load language 'russian'...
 Package biblatex Info: ... file 'russian.lbx' found.
-
 (/usr/share/texmf-dist/tex/latex/biblatex/lbx/russian.lbx
 File: russian.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
-Package biblatex Info: Trying to load language 'russian'...
-Package biblatex Info: ... file 'russian.lbx' found.
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
 
-(/usr/share/texmf-dist/tex/latex/biblatex/lbx/russian.lbx
-File: russian.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-))
+(/usr/share/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Data encoding 'utf8' specified.
 (biblatex)             No need to reencode data.
@@ -1156,8 +1156,8 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 40.
-Package biblatex Info: Reference segment=0 on input line 40.
+Package biblatex Info: Reference section=0 on input line 41.
+Package biblatex Info: Reference segment=0 on input line 41.
 \openout2 = `title.aux'.
 
 
@@ -1183,86 +1183,109 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--71
 
 
 ]
-Overfull \hbox (25.90338pt too wide) in paragraph at lines 55--56
+Overfull \hbox (25.90338pt too wide) in paragraph at lines 56--57
 []\T2A/cmr/m/n/14.4 Изучение про-цес-сов глу-бо-ко неупру-го-го рас-се-я-ния по
 з-во-ля-ет за-гля-нуть ѕвнутрьї
  []
 
-[2] [3{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-[4] [5]
+[1] [2{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+[3] [4]
 <DIS.png, id=42, 803.0pt x 803.0pt>
 File: DIS.png Graphic file (type png)
 <use DIS.png>
-Package pdftex.def Info: DIS.png  used on input line 104.
+Package pdftex.def Info: DIS.png  used on input line 105.
 (pdftex.def)             Requested size: 350.33727pt x 350.34367pt.
- [6 <./DIS.png>] [7]
-Overfull \hbox (9.35603pt too wide) in paragraph at lines 158--159
+ [5 <./DIS.png>] [6]
+Overfull \hbox (9.35603pt too wide) in paragraph at lines 159--160
 []\T2A/cmr/m/n/14.4 Физика эле-мен-тар-ных ча-стиц рас-смат-ри-ва-ет про-цес-сы
 , про-ис-хо-дя-щие на кван-
  []
 
-[8]
+[7]
 <Mott.png, id=54, 305.34074pt x 398.6895pt>
 File: Mott.png Graphic file (type png)
 <use Mott.png>
-Package pdftex.def Info: Mott.png  used on input line 193.
+Package pdftex.def Info: Mott.png  used on input line 194.
 (pdftex.def)             Requested size: 300.29344pt x 392.1305pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9] [10 <./Mott.png>] [11] [12] [13] [14]
-<nucleo.png, id=78, 536.0025pt x 211.79124pt>
+[8] [9 <./Mott.png>] [10] [11] [12] [13] [14]
+<nucleo.png, id=81, 536.0025pt x 211.79124pt>
 File: nucleo.png Graphic file (type png)
 <use nucleo.png>
-Package pdftex.def Info: nucleo.png  used on input line 316.
+Package pdftex.def Info: nucleo.png  used on input line 355.
 (pdftex.def)             Requested size: 450.43253pt x 177.97775pt.
  [15] [16 <./nucleo.png>]
-<fragmentation.png, id=87, 475.7775pt x 318.18875pt>
+<fragmentation.png, id=90, 475.7775pt x 318.18875pt>
 File: fragmentation.png Graphic file (type png)
 <use fragmentation.png>
-Package pdftex.def Info: fragmentation.png  used on input line 347.
+Package pdftex.def Info: fragmentation.png  used on input line 386.
 (pdftex.def)             Requested size: 350.33727pt x 234.31015pt.
 
-Overfull \hbox (54.46004pt too wide) in paragraph at lines 344--353
+Overfull \hbox (54.46004pt too wide) in paragraph at lines 383--390
 \T2A/cmr/m/n/14.4 адроны об-ра-зу-ют-ся в ре-зуль-та-те фраг-мен-та-ции (раз-ры
 -ва) цвет-ных кварк-антикварковых
  []
 
 [17]
-Overfull \hbox (18.50594pt too wide) in paragraph at lines 358--359
+Overfull \hbox (18.50594pt too wide) in paragraph at lines 398--399
 []\T2A/cmr/m/n/14.4 Для кварк-антикварковой па-ры спра-вед-ли-ва сле-ду-ю-щая п
 а-ра-мет-ри-за-ция функ-
  []
 
-[18 <./fragmentation.png>] [19] [20] [21] [22]
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.385 \end
-          {document}
-? 
-[23] (./main.aux (./title.aux))
+[18 <./fragmentation.png>] [19]
+<sidis.png, id=101, 346.896pt x 183.084pt>
+File: sidis.png Graphic file (type png)
+<use sidis.png>
+Package pdftex.def Info: sidis.png  used on input line 412.
+(pdftex.def)             Requested size: 346.89514pt x 183.08354pt.
+ [20 <./sidis.png>] [21] [22] [23] [24]
+Overfull \hbox (2.37134pt too wide) in paragraph at lines 462--462
+[]\T2A/cmr/m/n/14.4 Richard Feynman. ѕ  Very High-Energy Collisions of Hadronsї
+. В: \T2A/cmr/m/it/14.4 Physical Review
+ []
+
+
+Overfull \hbox (11.68831pt too wide) in paragraph at lines 462--462
+[]\T2A/cmr/m/n/14.4 M Breidenbach. ѕ  Observed bahavior of highly inelastic ele
+ctron-proton scatteringї.
+ []
+
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
+461.
+(/usr/share/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+Overfull \hbox (30.67615pt too wide) in paragraph at lines 462--462
+[]\T2A/cmr/m/n/14.4 Silvia Ferreres-Sole и Torbjorn Sjostrand. \T2A/cmr/m/it/14
+.4 The Space^^UTime Structure of Hadronization
+ []
+
+
+Overfull \hbox (7.56pt too wide) in paragraph at lines 462--462
+[]\T2A/cmr/m/n/14.4 Vincenzo Barone, Alessandro Drago и Philip G. Ratcliffe. ѕ 
+ Transverse polarisation
+ []
+
+[25] (./main.aux (./title.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-
-
-Package biblatex Warning: Please rerun LaTeX.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26497 strings out of 475550
- 518588 string characters out of 5785873
- 1937187 words of memory out of 5000000
- 48232 multiletter control sequences out of 15000+600000
- 568770 words of font info for 53 fonts, out of 8000000 for 9000
+ 26074 strings out of 475550
+ 508953 string characters out of 5785873
+ 1939187 words of memory out of 5000000
+ 47800 multiletter control sequences out of 15000+600000
+ 569864 words of font info for 55 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 84i,16n,93p,1482b,3117s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,16n,93p,1492b,1741s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/publi
@@ -1270,14 +1293,17 @@ c/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
 share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/p
-ublic/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/
-sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></
-usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf
--dist/fonts/type1/public/cm-super/sfti1440.pfb>
-Output written on main.pdf (26 pages, 423226 bytes).
+ublic/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/
+sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></
+usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/share/texmf
+-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/share/texmf-dist/fonts/typ
+e1/public/cm-super/sfrm1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-su
+per/sfti1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1440.pf
+b>
+Output written on main.pdf (29 pages, 523605 bytes).
 PDF statistics:
- 171 PDF objects out of 1000 (max. 8388607)
- 106 compressed objects within 2 object streams
+ 197 PDF objects out of 1000 (max. 8388607)
+ 121 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 

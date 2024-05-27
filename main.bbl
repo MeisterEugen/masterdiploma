@@ -18,7 +18,7 @@
 
 
 \refsection{0}
-  \datalist[entry]{ntvy/global//global/global}
+  \datalist[entry]{none/global//global/global}
     \entry{Hofstadter}{article}{}
       \name{author}{1}{}{%
         {{hash=b9c43f50788d8760784680e4bda2cb64}{%
@@ -33,8 +33,8 @@
       \strng{authorbibnamehash}{b9c43f50788d8760784680e4bda2cb64}
       \strng{authornamehash}{b9c43f50788d8760784680e4bda2cb64}
       \strng{authorfullhash}{b9c43f50788d8760784680e4bda2cb64}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Annual Review of Nuclear and Particle Science.}
@@ -43,6 +43,244 @@
       \field{year}{1957}
       \field{pages}{213\bibrangedash 316}
       \range{pages}{104}
+    \endentry
+    \entry{SLAC}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b060947dbd15d444954c0142db0fa1b5}{%
+           family={E.\bibnamedelimi Bloom},
+           familyi={E\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={H.\bibnamedelimi DeStaebler\bibnamedelimb et\bibnamedelima al.},
+           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           suffix={D.\bibnamedelimi Coward},
+           suffixi={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{b060947dbd15d444954c0142db0fa1b5}
+      \strng{fullhash}{b060947dbd15d444954c0142db0fa1b5}
+      \strng{bibnamehash}{b060947dbd15d444954c0142db0fa1b5}
+      \strng{authorbibnamehash}{b060947dbd15d444954c0142db0fa1b5}
+      \strng{authornamehash}{b060947dbd15d444954c0142db0fa1b5}
+      \strng{authorfullhash}{b060947dbd15d444954c0142db0fa1b5}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review Letters.}
+      \field{title}{High-Energy Inelastic ep Scattering at 6-Degrees and 10-Degrees}
+      \field{volume}{23}
+      \field{year}{1969}
+      \field{pages}{930\bibrangedash 934}
+      \range{pages}{5}
+    \endentry
+    \entry{Feynman}{article}{}
+      \name{author}{1}{}{%
+        {{hash=76c376c1c6574c7dad0b40422ddcb0af}{%
+           family={Feynman},
+           familyi={F\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{76c376c1c6574c7dad0b40422ddcb0af}
+      \strng{fullhash}{76c376c1c6574c7dad0b40422ddcb0af}
+      \strng{bibnamehash}{76c376c1c6574c7dad0b40422ddcb0af}
+      \strng{authorbibnamehash}{76c376c1c6574c7dad0b40422ddcb0af}
+      \strng{authornamehash}{76c376c1c6574c7dad0b40422ddcb0af}
+      \strng{authorfullhash}{76c376c1c6574c7dad0b40422ddcb0af}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review Letters.}
+      \field{title}{Very High-Energy Collisions of Hadrons}
+      \field{volume}{23}
+      \field{year}{1969}
+      \field{pages}{239}
+      \range{pages}{1}
+    \endentry
+    \entry{Breidenbach}{article}{}
+      \name{author}{1}{}{%
+        {{hash=12c36c97b90139329c72ba6b3f22891c}{%
+           family={Breidenbach},
+           familyi={B\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{12c36c97b90139329c72ba6b3f22891c}
+      \strng{fullhash}{12c36c97b90139329c72ba6b3f22891c}
+      \strng{bibnamehash}{12c36c97b90139329c72ba6b3f22891c}
+      \strng{authorbibnamehash}{12c36c97b90139329c72ba6b3f22891c}
+      \strng{authornamehash}{12c36c97b90139329c72ba6b3f22891c}
+      \strng{authorfullhash}{12c36c97b90139329c72ba6b3f22891c}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Phys. Rev. Lett.}
+      \field{title}{Observed bahavior of highly inelastic electron-proton scattering}
+      \field{volume}{23}
+      \field{year}{1969}
+      \field{pages}{935}
+      \range{pages}{1}
+    \endentry
+    \entry{Callan-Gross}{article}{}
+      \name{author}{2}{}{%
+        {{hash=34c9366668a4e20efd093addfe7c0d67}{%
+           family={Callan},
+           familyi={C\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=024dd3df8bbdd2d7f23d97316f2d4b36}{%
+           family={Gross},
+           familyi={G\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6871bd7e340e8c4c6add6c4e5338e2f}
+      \strng{fullhash}{b6871bd7e340e8c4c6add6c4e5338e2f}
+      \strng{bibnamehash}{b6871bd7e340e8c4c6add6c4e5338e2f}
+      \strng{authorbibnamehash}{b6871bd7e340e8c4c6add6c4e5338e2f}
+      \strng{authornamehash}{b6871bd7e340e8c4c6add6c4e5338e2f}
+      \strng{authorfullhash}{b6871bd7e340e8c4c6add6c4e5338e2f}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Phys. Rev. Lett.}
+      \field{title}{High-Energy Electroproduction and the Constitution of the Electric Current}
+      \field{volume}{22}
+      \field{year}{1969}
+      \field{pages}{156}
+      \range{pages}{1}
+    \endentry
+    \entry{Hagler}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b84a6db77f31338df11acd08c0d1d3a5}{%
+           family={Hagler},
+           familyi={H\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{b84a6db77f31338df11acd08c0d1d3a5}
+      \strng{fullhash}{b84a6db77f31338df11acd08c0d1d3a5}
+      \strng{bibnamehash}{b84a6db77f31338df11acd08c0d1d3a5}
+      \strng{authorbibnamehash}{b84a6db77f31338df11acd08c0d1d3a5}
+      \strng{authornamehash}{b84a6db77f31338df11acd08c0d1d3a5}
+      \strng{authorfullhash}{b84a6db77f31338df11acd08c0d1d3a5}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Phys. Rept.}
+      \field{title}{Hadron structure from lattice quantum chromodynamics}
+      \field{volume}{490}
+      \field{year}{2010}
+      \field{pages}{49}
+      \range{pages}{1}
+    \endentry
+    \entry{Hadronization}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6e0c7f4b17c5d6cfbd0bda5a38653610}{%
+           family={Sjostrand},
+           familyi={S\bibinitperiod},
+           given={Torbjorn},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{6e0c7f4b17c5d6cfbd0bda5a38653610}
+      \strng{fullhash}{6e0c7f4b17c5d6cfbd0bda5a38653610}
+      \strng{bibnamehash}{6e0c7f4b17c5d6cfbd0bda5a38653610}
+      \strng{authorbibnamehash}{6e0c7f4b17c5d6cfbd0bda5a38653610}
+      \strng{authornamehash}{6e0c7f4b17c5d6cfbd0bda5a38653610}
+      \strng{authorfullhash}{6e0c7f4b17c5d6cfbd0bda5a38653610}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Modern Physics}
+      \field{title}{Status of fragmentation models}
+      \field{volume}{3}
+      \field{year}{1988}
+      \field{pages}{751\bibrangedash 823}
+      \range{pages}{73}
+    \endentry
+    \entry{LUND}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=791b627f79295c31662ebb49d2488897}{%
+           family={Ferreres-Sole},
+           familyi={F\bibinithyphendelim S\bibinitperiod},
+           given={Silvia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6e0c7f4b17c5d6cfbd0bda5a38653610}{%
+           family={Sjostrand},
+           familyi={S\bibinitperiod},
+           given={Torbjorn},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{8df2851b02c98bdbb41b52be0cad68d3}
+      \strng{fullhash}{8df2851b02c98bdbb41b52be0cad68d3}
+      \strng{bibnamehash}{8df2851b02c98bdbb41b52be0cad68d3}
+      \strng{authorbibnamehash}{8df2851b02c98bdbb41b52be0cad68d3}
+      \strng{authornamehash}{8df2851b02c98bdbb41b52be0cad68d3}
+      \strng{authorfullhash}{8df2851b02c98bdbb41b52be0cad68d3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{quant-ph}
+      \field{eprinttype}{arXiv}
+      \field{title}{The Space–Time Structure of Hadronization in the Lund Model}
+      \field{year}{2018}
+      \verb{eprint}
+      \verb 1808.04619
+      \endverb
+    \endentry
+    \entry{Barone_2002}{article}{}
+      \name{author}{3}{}{%
+        {{hash=358a7a1086c2895496d63896c15fecbb}{%
+           family={Barone},
+           familyi={B\bibinitperiod},
+           given={Vincenzo},
+           giveni={V\bibinitperiod}}}%
+        {{hash=6fa0c4bff71b7673a84cfb06625781de}{%
+           family={Drago},
+           familyi={D\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5d03b7c245304a27d6d34ad9c6e3d596}{%
+           family={Ratcliffe},
+           familyi={R\bibinitperiod},
+           given={Philip\bibnamedelima G.},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{632e6e6fa6fe052fa6eac2fc8c172b0b}
+      \strng{fullhash}{632e6e6fa6fe052fa6eac2fc8c172b0b}
+      \strng{bibnamehash}{632e6e6fa6fe052fa6eac2fc8c172b0b}
+      \strng{authorbibnamehash}{632e6e6fa6fe052fa6eac2fc8c172b0b}
+      \strng{authornamehash}{632e6e6fa6fe052fa6eac2fc8c172b0b}
+      \strng{authorfullhash}{632e6e6fa6fe052fa6eac2fc8c172b0b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0370-1573}
+      \field{journaltitle}{Physics Reports}
+      \field{month}{3}
+      \field{number}{1–2}
+      \field{title}{Transverse polarisation of quarks in hadrons}
+      \field{volume}{359}
+      \field{year}{2002}
+      \field{pages}{1\bibrangedash 168}
+      \range{pages}{168}
+      \verb{doi}
+      \verb 10.1016/s0370-1573(01)00051-5
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1016/S0370-1573(01)00051-5
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/S0370-1573(01)00051-5
+      \endverb
     \endentry
   \enddatalist
 \endrefsection
