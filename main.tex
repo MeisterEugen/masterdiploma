@@ -17,6 +17,7 @@
 \usepackage{amsmath}
 \usepackage{tikz}
 \usepackage{braket}
+\usepackage{slashed}
 
 \DeclareCaptionLabelSeparator{custom}{ -- }
 \captionsetup[figure]{name=Рисунок, labelsep = custom}
@@ -354,17 +355,67 @@ F_2(x) = \sum_i e^2_i x f_i(x),
 %h=(S⃗⋅P⃗)/(|S⃗|⋅|P⃗|) ,
 где \textbf{S} – вектор спина частицы, \textbf{P} – вектор импульса. Если спиральность частицы по модулю равняется единице, то она поляризована продольно, если спиральность равна нулю, то поперечно. 
 
-Поляризацию релятивистской частицы можно выразить в виде векторного оператора поляризации (оператора Паули-Любански):
+Рассмотрим поляризацию релятивистской частицы. Для этого введём оператор Паули-Любански:
 \begin{equation}
-	W^\mu = \epsilon^{\mu\nu\rho\lambda}S_{\rho\lambda}\hat{p}_\nu,
+	W^\mu = \epsilon^{\mu\nu\rho\lambda}S_{\rho\lambda}P_\nu,
 \end{equation}
-где $\mu, \nu, \rho, \lambda = 0, 1, 2, 3$, $\hat{p}_\nu$ -- 4-импульс частицы, $S_{\rho\lambda}$ -- спиновая матрица:
+где $\mu, \nu, \rho, \lambda = 0, 1, 2, 3$, $P_\nu$ -- 4-импульс частицы, $S_{\rho\lambda}$ -- спиновая матрица:
 \begin{equation}
 	S_{\rho\lambda} = (S, iS) \equiv \begin{pmatrix}
 		0&S_x&S_y&S_z\\-S_x&0&-iS_z&iS_y\\-S_y&iS_z&0&-iS_x\\-S_z&-iS_y&iS_x&0
 	\end{pmatrix},
 \end{equation}
 где $S$ -- матрица спина.
+Собственные значения оператора Паули-Любански будут равны
+\begin{equation}
+	W^2 = -s(s+1)m^2,
+\end{equation}
+где $s$ -- спин частицы, а $m$ -- её масса.
+
+Рассмотрим состояния дираковской частицы (со спином $s=\frac{1}{2}$). Для этого введём оператор поляризации $\Pi$:
+\begin{equation}
+	\Pi \equiv - \frac{W \cdot s}{m},
+\end{equation}
+чьи собственные вектора для дираковской частицы будут равны
+\begin{equation}
+	\begin{split}
+		& \Pi \ket{p, s} = \pm \frac{1}{2} \ket{p, s}, \\
+		& P^\mu \ket{p, s} = p^\mu \ket{p, s},
+	\end{split}
+\end{equation}
+где $p^\mu$ -- вектор импульса частицы со спином 1/2, $s^\mu$ -- её вектор спина (поляризации), обладающий следующими свойствами:
+\begin{equation}
+	s^2 = -1, s^\mu p_\nu = 0.
+\end{equation}
+В общем виде этот вектор определяется следующим образом:
+\begin{equation}
+	s^\mu = \begin{pmatrix}
+		\frac{\textbf{p}\cdot \textbf{n}}{m} \\ \textbf{n} + \frac{(\textbf{p}\cdot \textbf{n}) \cdot \textbf{p}}{m(m+p^0)}
+	\end{pmatrix},
+\end{equation}
+где $\textbf{p}$ -- вектор импульса частицы, $\textbf{n}$ -- единичный вектор, указывающий направление поляризации. Данное выражение упрощается, когда частица находится в состоянии покоя ($\textbf{p} = 0$):
+\begin{equation}
+	s^\mu = (0, \textbf{n}).
+\end{equation}
+
+В терминах матриц Дирака оператор поляризации будет равен
+\begin{equation}
+	\Pi = \frac{1}{2m} \gamma^5 \slashed{s} \slashed{p}, 
+\end{equation}
+где $\slashed{s} = \gamma^\mu s_\mu$, $\slashed{p} = \gamma^\mu p_\mu$ - фейнмановские обозначения матриц Дирака. Когда $\textbf{p}=0$, то $\slashed{p} = m$, и тогда получаем оператор
+\begin{equation}
+	\Pi = \frac{1}{2} \gamma^5 \slashed{s} = \begin{pmatrix}
+		\boldsymbol{\sigma} \cdot \boldsymbol{n} & 0 \\ 0 & \boldsymbol{\sigma} \cdot \boldsymbol{n},
+	\end{pmatrix}
+\end{equation}
+где $\boldsymbol{\sigma}$ -- матрица Паули. Подействовав оператором $\Pi$ на спиноры Дирака $u(p)$ (для частиц), $v(p)$ (для античастиц), получаем проекцию спина фермиона:
+\begin{equation}
+	\Pi u = \frac{1}{2} \boldsymbol{\sigma} \cdot \boldsymbol{n} = + \frac{1}{2}, 
+\end{equation}
+для частиц, и для античастиц
+\begin{equation}
+	\Pi v = \frac{1}{2} \boldsymbol{\sigma} \cdot \boldsymbol{n} = - \frac{1}{2}.
+\end{equation}
 
 
  Величина спина нуклона общеизвестна – 1/2, но до сих пор неизвестно распределение спина нуклона по его составляющим (конституэнтам), или, что аналогично, из чего складывается этот спин. До публикации результатов коллаборации EMC [4] считалось, что спин нуклона полностью складывается из спинов валентных кварков (те кварки, которые определяют квантовые числа адронов). Данный эксперимент показал, что валентные кварки дают вклад, равный лишь трети от суммарного спина. На данный момент достоверно известно, что спин в том числе распределяется по валентным кваркам, морским кваркам, глюонам и орбитальным моментам этих частиц. На рисунке \ref{fig:nucleo} схематично представлена картина возможного распределения спина нуклона по его составляющим.
@@ -586,6 +637,9 @@ F_2(x) = \sum_i e^2_i x f_i(x),
 \section{Моделирование процессов в PYTHIA}
 \subsection{Поляризация в PYTHIA}
 \subsection{Расчёт асимметрии Сиверса}
+
+Представим в данном параграфе расчёт асимметрии Сиверса в полуинклюзивном ГНР неполяризованных лептонов на поперечно поляризованном протоне с использованием PYTHIA8 и плагина Stringspinner.  
+
 \newpage
 \section*{Заключение}
 \addcontentsline{toc}{section}{Заключение}
