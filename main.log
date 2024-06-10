@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.5.15)  27 MAY 2024 15:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.5.15)  10 JUN 2024 17:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**main
+**main.tex
 (./main.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -784,6 +784,9 @@ File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 topaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (/usr/share/texmf-dist/tex/latex/braket/braket.sty)
+(/usr/share/texmf-dist/tex/latex/carlisle/slashed.sty
+Package: slashed 1997/01/16 v0.01 Feynman Slashed Character Notation (DPC)
+)
 (/usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
 
@@ -1061,22 +1064,22 @@ Package csquotes Info: Redefining alias 'default' -> 'russian'.
 (./title.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
  (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count441
@@ -1099,7 +1102,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \th on input line 41.
+LaTeX Info: Redefining \th on input line 42.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1156,8 +1159,8 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 41.
-Package biblatex Info: Reference segment=0 on input line 41.
+Package biblatex Info: Reference section=0 on input line 42.
+Package biblatex Info: Reference segment=0 on input line 42.
 \openout2 = `title.aux'.
 
 
@@ -1179,131 +1182,154 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--71
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- [1
+ [4
 
 
-]
-Overfull \hbox (25.90338pt too wide) in paragraph at lines 56--57
-[]\T2A/cmr/m/n/14.4 Изучение про-цес-сов глу-бо-ко неупру-го-го рас-се-я-ния по
-з-во-ля-ет за-гля-нуть ѕвнутрьї
- []
-
-[1] [2{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-[3] [4]
+] [5] [6{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [7] 
+[8]
 <DIS.png, id=42, 803.0pt x 803.0pt>
 File: DIS.png Graphic file (type png)
 <use DIS.png>
-Package pdftex.def Info: DIS.png  used on input line 105.
+Package pdftex.def Info: DIS.png  used on input line 108.
 (pdftex.def)             Requested size: 350.33727pt x 350.34367pt.
- [5 <./DIS.png>] [6]
-Overfull \hbox (9.35603pt too wide) in paragraph at lines 159--160
+ [9 <./DIS.png>] [10]
+Overfull \hbox (9.35603pt too wide) in paragraph at lines 164--165
 []\T2A/cmr/m/n/14.4 Физика эле-мен-тар-ных ча-стиц рас-смат-ри-ва-ет про-цес-сы
 , про-ис-хо-дя-щие на кван-
  []
 
-[7]
+[11]
 <Mott.png, id=54, 305.34074pt x 398.6895pt>
 File: Mott.png Graphic file (type png)
 <use Mott.png>
-Package pdftex.def Info: Mott.png  used on input line 194.
+Package pdftex.def Info: Mott.png  used on input line 199.
 (pdftex.def)             Requested size: 300.29344pt x 392.1305pt.
+ [12] [13 <./Mott.png>] [14] [15] [16] [17] [18] [19] [20] [21]
+<nucleo.png, id=94, 536.0025pt x 211.79124pt>
+File: nucleo.png Graphic file (type png)
+<use nucleo.png>
+Package pdftex.def Info: nucleo.png  used on input line 470.
+(pdftex.def)             Requested size: 450.43253pt x 177.97775pt.
+ [22]
+<functions.png, id=98, 696.6025pt x 388.45125pt>
+File: functions.png Graphic file (type png)
+<use functions.png>
+Package pdftex.def Info: functions.png  used on input line 490.
+(pdftex.def)             Requested size: 500.484pt x 279.08601pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8] [9 <./Mott.png>] [10] [11] [12] [13] [14]
-<nucleo.png, id=81, 536.0025pt x 211.79124pt>
-File: nucleo.png Graphic file (type png)
-<use nucleo.png>
-Package pdftex.def Info: nucleo.png  used on input line 355.
-(pdftex.def)             Requested size: 450.43253pt x 177.97775pt.
- [15] [16 <./nucleo.png>]
-<fragmentation.png, id=90, 475.7775pt x 318.18875pt>
-File: fragmentation.png Graphic file (type png)
-<use fragmentation.png>
-Package pdftex.def Info: fragmentation.png  used on input line 386.
-(pdftex.def)             Requested size: 350.33727pt x 234.31015pt.
-
-Overfull \hbox (54.46004pt too wide) in paragraph at lines 383--390
+[23 <./nucleo.png>] [24 <./functions.png>]
+Overfull \hbox (54.46004pt too wide) in paragraph at lines 512--513
 \T2A/cmr/m/n/14.4 адроны об-ра-зу-ют-ся в ре-зуль-та-те фраг-мен-та-ции (раз-ры
 -ва) цвет-ных кварк-антикварковых
  []
 
-[17]
-Overfull \hbox (18.50594pt too wide) in paragraph at lines 398--399
+<fragmentation.png, id=107, 475.7775pt x 318.18875pt>
+File: fragmentation.png Graphic file (type png)
+<use fragmentation.png>
+Package pdftex.def Info: fragmentation.png  used on input line 525.
+(pdftex.def)             Requested size: 400.38872pt x 267.78165pt.
+[25]
+Overfull \hbox (18.50594pt too wide) in paragraph at lines 536--537
 []\T2A/cmr/m/n/14.4 Для кварк-антикварковой па-ры спра-вед-ли-ва сле-ду-ю-щая п
 а-ра-мет-ри-за-ция функ-
  []
 
-[18 <./fragmentation.png>] [19]
-<sidis.png, id=101, 346.896pt x 183.084pt>
+[26 <./fragmentation.png>] [27]
+<sidis.png, id=119, 346.896pt x 183.084pt>
 File: sidis.png Graphic file (type png)
 <use sidis.png>
-Package pdftex.def Info: sidis.png  used on input line 412.
+Package pdftex.def Info: sidis.png  used on input line 550.
 (pdftex.def)             Requested size: 346.89514pt x 183.08354pt.
- [20 <./sidis.png>] [21] [22] [23] [24]
-Overfull \hbox (2.37134pt too wide) in paragraph at lines 462--462
-[]\T2A/cmr/m/n/14.4 Richard Feynman. ѕ  Very High-Energy Collisions of Hadronsї
-. В: \T2A/cmr/m/it/14.4 Physical Review
- []
-
-
-Overfull \hbox (11.68831pt too wide) in paragraph at lines 462--462
-[]\T2A/cmr/m/n/14.4 M Breidenbach. ѕ  Observed bahavior of highly inelastic ele
-ctron-proton scatteringї.
- []
-
+ [28 <./sidis.png>] [29] [30] [31] [32] [33]
+[34] [35]
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-461.
-(/usr/share/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
+724.
+ (/usr/share/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-Overfull \hbox (30.67615pt too wide) in paragraph at lines 462--462
+Overfull \hbox (8.1831pt too wide) in paragraph at lines 725--725
+\T2A/cmtt/m/n/14.4 doi . org / 10 . 1016 / j . ppnp . 2016 . 08 . 003$\T2A/cmr/
+m/n/14.4 . \T2A/cmr/m/sc/14.4 url\T2A/cmr/m/n/14.4 : $\T2A/cmtt/m/n/14.4 https 
+: / / www . sciencedirect .
+ []
+
+
+Overfull \hbox (22.3493pt too wide) in paragraph at lines 725--725
+[]\T2A/cmr/m/n/14.4 M. Breidenbach. ѕ  Observed bahavior of highly inelastic el
+ectron-proton scatteringї.
+ []
+
+
+Overfull \hbox (14.41351pt too wide) in paragraph at lines 725--725
+[]\T2A/cmr/m/n/14.4 Vincenzo Barone, Alessandro Drago и Philip G. Ratcliffe. ѕ 
+ Transverse polarisation
+ []
+
+
+Overfull \hbox (1.17873pt too wide) in paragraph at lines 725--725
+[]\T2A/cmr/m/n/14.4 Torbjorn Sjostrand. ѕ  Status of fragmentation modelsї. В: 
+\T2A/cmr/m/it/14.4 International Journal
+ []
+
+
+Overfull \hbox (37.52966pt too wide) in paragraph at lines 725--725
 []\T2A/cmr/m/n/14.4 Silvia Ferreres-Sole и Torbjorn Sjostrand. \T2A/cmr/m/it/14
 .4 The Space^^UTime Structure of Hadronization
  []
 
 
-Overfull \hbox (7.56pt too wide) in paragraph at lines 462--462
-[]\T2A/cmr/m/n/14.4 Vincenzo Barone, Alessandro Drago и Philip G. Ratcliffe. ѕ 
- Transverse polarisation
+Overfull \hbox (1.28049pt too wide) in paragraph at lines 725--725
+[]\T2A/cmr/m/n/14.4 Alessandro Bacchetta и др. ѕ  Single-spin asymmetries: The 
+Trento conventionsї.
  []
 
-[25] (./main.aux (./title.aux))
+[36] [37] (./main.aux (./title.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26074 strings out of 475550
- 508953 string characters out of 5785873
- 1939187 words of memory out of 5000000
- 47800 multiletter control sequences out of 15000+600000
- 569864 words of font info for 55 fonts, out of 8000000 for 9000
+ 26150 strings out of 475550
+ 510612 string characters out of 5785873
+ 1944187 words of memory out of 5000000
+ 47864 multiletter control sequences out of 15000+600000
+ 573489 words of font info for 65 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 84i,16n,93p,1492b,1741s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
-share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/
-sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></
-usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/share/texmf
--dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/share/texmf-dist/fonts/typ
-e1/public/cm-super/sfrm1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-su
-per/sfti1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1440.pf
-b>
-Output written on main.pdf (29 pages, 523605 bytes).
+ 84i,20n,93p,1673b,1741s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></u
+sr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
+></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/te
+xmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/
+type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm
+-super/sfbx2074.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfcc1440
+.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/shar
+e/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb></usr/share/texmf-dist/fo
+nts/type1/public/cm-super/sftt1440.pfb>
+Output written on main.pdf (37 pages, 630337 bytes).
 PDF statistics:
- 197 PDF objects out of 1000 (max. 8388607)
- 121 compressed objects within 2 object streams
+ 242 PDF objects out of 1000 (max. 8388607)
+ 150 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 43 words of extra memory for PDF output out of 10000 (max. 10000000)
 

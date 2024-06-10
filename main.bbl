@@ -45,21 +45,34 @@
       \range{pages}{104}
     \endentry
     \entry{SLAC}{article}{}
-      \name{author}{1}{}{%
-        {{hash=b060947dbd15d444954c0142db0fa1b5}{%
-           family={E.\bibnamedelimi Bloom},
-           familyi={E\bibinitperiod\bibinitdelim B\bibinitperiod},
-           given={H.\bibnamedelimi DeStaebler\bibnamedelimb et\bibnamedelima al.},
-           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim a\bibinitperiod},
-           suffix={D.\bibnamedelimi Coward},
-           suffixi={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      \name{author}{4}{}{%
+        {{hash=211e63d7137de4f7ff75c6ad681087f3}{%
+           family={Bloom},
+           familyi={B\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=b27e1ddd3258cdcf7672d7aa893d7edb}{%
+           family={Coward},
+           familyi={C\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a1784d0ab312525d99c2f4254a0c27fa}{%
+           family={DeStaebler},
+           familyi={D\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
       }
-      \strng{namehash}{b060947dbd15d444954c0142db0fa1b5}
-      \strng{fullhash}{b060947dbd15d444954c0142db0fa1b5}
-      \strng{bibnamehash}{b060947dbd15d444954c0142db0fa1b5}
-      \strng{authorbibnamehash}{b060947dbd15d444954c0142db0fa1b5}
-      \strng{authornamehash}{b060947dbd15d444954c0142db0fa1b5}
-      \strng{authorfullhash}{b060947dbd15d444954c0142db0fa1b5}
+      \strng{namehash}{814ac6f094560a174b00e4a2509e8166}
+      \strng{fullhash}{702278c15fc800b7a1b54fd9c2beaf52}
+      \strng{bibnamehash}{814ac6f094560a174b00e4a2509e8166}
+      \strng{authorbibnamehash}{814ac6f094560a174b00e4a2509e8166}
+      \strng{authornamehash}{814ac6f094560a174b00e4a2509e8166}
+      \strng{authorfullhash}{702278c15fc800b7a1b54fd9c2beaf52}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
@@ -73,18 +86,18 @@
     \endentry
     \entry{Feynman}{article}{}
       \name{author}{1}{}{%
-        {{hash=76c376c1c6574c7dad0b40422ddcb0af}{%
+        {{hash=ad3ca5c97904f468047862e231f3aafc}{%
            family={Feynman},
            familyi={F\bibinitperiod},
-           given={Richard},
+           given={R.},
            giveni={R\bibinitperiod}}}%
       }
-      \strng{namehash}{76c376c1c6574c7dad0b40422ddcb0af}
-      \strng{fullhash}{76c376c1c6574c7dad0b40422ddcb0af}
-      \strng{bibnamehash}{76c376c1c6574c7dad0b40422ddcb0af}
-      \strng{authorbibnamehash}{76c376c1c6574c7dad0b40422ddcb0af}
-      \strng{authornamehash}{76c376c1c6574c7dad0b40422ddcb0af}
-      \strng{authorfullhash}{76c376c1c6574c7dad0b40422ddcb0af}
+      \strng{namehash}{ad3ca5c97904f468047862e231f3aafc}
+      \strng{fullhash}{ad3ca5c97904f468047862e231f3aafc}
+      \strng{bibnamehash}{ad3ca5c97904f468047862e231f3aafc}
+      \strng{authorbibnamehash}{ad3ca5c97904f468047862e231f3aafc}
+      \strng{authornamehash}{ad3ca5c97904f468047862e231f3aafc}
+      \strng{authorfullhash}{ad3ca5c97904f468047862e231f3aafc}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
@@ -96,12 +109,52 @@
       \field{pages}{239}
       \range{pages}{1}
     \endentry
+    \entry{Metz_2016}{article}{}
+      \name{author}{2}{}{%
+        {{hash=87645ef394a34362b9d4ef4380871766}{%
+           family={Metz},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=51ec544ec2bff8e4f383ac94ad762869}{%
+           family={Vossen},
+           familyi={V\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{0dcf8beb435ee09bd3884b5a78702a25}
+      \strng{fullhash}{0dcf8beb435ee09bd3884b5a78702a25}
+      \strng{bibnamehash}{0dcf8beb435ee09bd3884b5a78702a25}
+      \strng{authorbibnamehash}{0dcf8beb435ee09bd3884b5a78702a25}
+      \strng{authornamehash}{0dcf8beb435ee09bd3884b5a78702a25}
+      \strng{authorfullhash}{0dcf8beb435ee09bd3884b5a78702a25}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0146-6410}
+      \field{journaltitle}{Progress in Particle and Nuclear Physics}
+      \field{title}{Parton fragmentation functions}
+      \field{volume}{91}
+      \field{year}{2016}
+      \field{pages}{136\bibrangedash 202}
+      \range{pages}{67}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.ppnp.2016.08.003
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S014664101630045X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S014664101630045X
+      \endverb
+    \endentry
     \entry{Breidenbach}{article}{}
       \name{author}{1}{}{%
         {{hash=12c36c97b90139329c72ba6b3f22891c}{%
            family={Breidenbach},
            familyi={B\bibinitperiod},
-           given={M},
+           given={M.},
            giveni={M\bibinitperiod}}}%
       }
       \strng{namehash}{12c36c97b90139329c72ba6b3f22891c}
@@ -110,8 +163,8 @@
       \strng{authorbibnamehash}{12c36c97b90139329c72ba6b3f22891c}
       \strng{authornamehash}{12c36c97b90139329c72ba6b3f22891c}
       \strng{authorfullhash}{12c36c97b90139329c72ba6b3f22891c}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Phys. Rev. Lett.}
@@ -126,12 +179,12 @@
         {{hash=34c9366668a4e20efd093addfe7c0d67}{%
            family={Callan},
            familyi={C\bibinitperiod},
-           given={C},
+           given={C.},
            giveni={C\bibinitperiod}}}%
         {{hash=024dd3df8bbdd2d7f23d97316f2d4b36}{%
            family={Gross},
            familyi={G\bibinitperiod},
-           given={D},
+           given={D.},
            giveni={D\bibinitperiod}}}%
       }
       \strng{namehash}{b6871bd7e340e8c4c6add6c4e5338e2f}
@@ -140,8 +193,8 @@
       \strng{authorbibnamehash}{b6871bd7e340e8c4c6add6c4e5338e2f}
       \strng{authornamehash}{b6871bd7e340e8c4c6add6c4e5338e2f}
       \strng{authorfullhash}{b6871bd7e340e8c4c6add6c4e5338e2f}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Phys. Rev. Lett.}
@@ -151,12 +204,108 @@
       \field{pages}{156}
       \range{pages}{1}
     \endentry
+    \entry{banerjee}{misc}{}
+      \name{author}{5}{}{%
+        {{hash=d2989a438c5230db16c7964daa9a1c37}{%
+           family={Banerjee},
+           familyi={B\bibinitperiod},
+           given={Soham},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3023b8207ee902704f816a6643a91ab9}{%
+           family={Bhadury},
+           familyi={B\bibinitperiod},
+           given={Samapan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fb6407f382e1fafdc062b1eed7895781}{%
+           family={Florkowski},
+           familyi={F\bibinitperiod},
+           given={Wojciech},
+           giveni={W\bibinitperiod}}}%
+        {{hash=3a1d4582f66bf7a06a8b0b922727b2de}{%
+           family={Jaiswal},
+           familyi={J\bibinitperiod},
+           given={Amaresh},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b286f78e51d7cad6475fb2b64f0f4afd}{%
+           family={Ryblewski},
+           familyi={R\bibinitperiod},
+           given={Radoslaw},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{5b5e0fa827274818d17f2aa2fff7a7e5}
+      \strng{fullhash}{5f80041b07b2b0a264fff5d3b9b13c16}
+      \strng{bibnamehash}{5b5e0fa827274818d17f2aa2fff7a7e5}
+      \strng{authorbibnamehash}{5b5e0fa827274818d17f2aa2fff7a7e5}
+      \strng{authornamehash}{5b5e0fa827274818d17f2aa2fff7a7e5}
+      \strng{authorfullhash}{5f80041b07b2b0a264fff5d3b9b13c16}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{hep-ph}
+      \field{eprinttype}{arXiv}
+      \field{title}{Longitudinal spin polarization in a thermal model with dissipative corrections}
+      \field{year}{2024}
+      \verb{eprint}
+      \verb 2405.05089
+      \endverb
+    \endentry
+    \entry{Barone_2002}{article}{}
+      \name{author}{3}{}{%
+        {{hash=358a7a1086c2895496d63896c15fecbb}{%
+           family={Barone},
+           familyi={B\bibinitperiod},
+           given={Vincenzo},
+           giveni={V\bibinitperiod}}}%
+        {{hash=6fa0c4bff71b7673a84cfb06625781de}{%
+           family={Drago},
+           familyi={D\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5d03b7c245304a27d6d34ad9c6e3d596}{%
+           family={Ratcliffe},
+           familyi={R\bibinitperiod},
+           given={Philip\bibnamedelima G.},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{632e6e6fa6fe052fa6eac2fc8c172b0b}
+      \strng{fullhash}{632e6e6fa6fe052fa6eac2fc8c172b0b}
+      \strng{bibnamehash}{632e6e6fa6fe052fa6eac2fc8c172b0b}
+      \strng{authorbibnamehash}{632e6e6fa6fe052fa6eac2fc8c172b0b}
+      \strng{authornamehash}{632e6e6fa6fe052fa6eac2fc8c172b0b}
+      \strng{authorfullhash}{632e6e6fa6fe052fa6eac2fc8c172b0b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0370-1573}
+      \field{journaltitle}{Physics Reports}
+      \field{month}{3}
+      \field{number}{1–2}
+      \field{title}{Transverse polarisation of quarks in hadrons}
+      \field{volume}{359}
+      \field{year}{2002}
+      \field{pages}{1\bibrangedash 168}
+      \range{pages}{168}
+      \verb{doi}
+      \verb 10.1016/s0370-1573(01)00051-5
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1016/S0370-1573(01)00051-5
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/S0370-1573(01)00051-5
+      \endverb
+    \endentry
     \entry{Hagler}{article}{}
       \name{author}{1}{}{%
         {{hash=b84a6db77f31338df11acd08c0d1d3a5}{%
            family={Hagler},
            familyi={H\bibinitperiod},
-           given={P},
+           given={P.},
            giveni={P\bibinitperiod}}}%
       }
       \strng{namehash}{b84a6db77f31338df11acd08c0d1d3a5}
@@ -165,8 +314,8 @@
       \strng{authorbibnamehash}{b84a6db77f31338df11acd08c0d1d3a5}
       \strng{authornamehash}{b84a6db77f31338df11acd08c0d1d3a5}
       \strng{authorfullhash}{b84a6db77f31338df11acd08c0d1d3a5}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Phys. Rept.}
@@ -232,54 +381,103 @@
       \verb 1808.04619
       \endverb
     \endentry
-    \entry{Barone_2002}{article}{}
-      \name{author}{3}{}{%
-        {{hash=358a7a1086c2895496d63896c15fecbb}{%
-           family={Barone},
+    \entry{Bacchetta_2004}{article}{}
+      \name{author}{4}{}{%
+        {{hash=7d750b9b422130a4f9a0cf0c35d076d4}{%
+           family={Bacchetta},
            familyi={B\bibinitperiod},
-           given={Vincenzo},
-           giveni={V\bibinitperiod}}}%
-        {{hash=6fa0c4bff71b7673a84cfb06625781de}{%
-           family={Drago},
-           familyi={D\bibinitperiod},
            given={Alessandro},
            giveni={A\bibinitperiod}}}%
-        {{hash=5d03b7c245304a27d6d34ad9c6e3d596}{%
-           family={Ratcliffe},
-           familyi={R\bibinitperiod},
-           given={Philip\bibnamedelima G.},
-           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=523b96f24fc4e2db52d803e8acc55263}{%
+           family={D’Alesio},
+           familyi={D\bibinitperiod},
+           given={Umberto},
+           giveni={U\bibinitperiod}}}%
+        {{hash=b254935ddf2b1a10e940541377e9d966}{%
+           family={Diehl},
+           familyi={D\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+        {{hash=586e78638f48366d0c215bdc34f3d90e}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Elsevier BV}%
+        {American Physical Society (APS)}%
       }
-      \strng{namehash}{632e6e6fa6fe052fa6eac2fc8c172b0b}
-      \strng{fullhash}{632e6e6fa6fe052fa6eac2fc8c172b0b}
-      \strng{bibnamehash}{632e6e6fa6fe052fa6eac2fc8c172b0b}
-      \strng{authorbibnamehash}{632e6e6fa6fe052fa6eac2fc8c172b0b}
-      \strng{authornamehash}{632e6e6fa6fe052fa6eac2fc8c172b0b}
-      \strng{authorfullhash}{632e6e6fa6fe052fa6eac2fc8c172b0b}
+      \strng{namehash}{90acd9c22f21186cb0291d89f67c8a25}
+      \strng{fullhash}{2151a0dda1f0507455defe7dd5276213}
+      \strng{bibnamehash}{90acd9c22f21186cb0291d89f67c8a25}
+      \strng{authorbibnamehash}{90acd9c22f21186cb0291d89f67c8a25}
+      \strng{authornamehash}{90acd9c22f21186cb0291d89f67c8a25}
+      \strng{authorfullhash}{2151a0dda1f0507455defe7dd5276213}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{issn}{0370-1573}
-      \field{journaltitle}{Physics Reports}
-      \field{month}{3}
-      \field{number}{1–2}
-      \field{title}{Transverse polarisation of quarks in hadrons}
-      \field{volume}{359}
-      \field{year}{2002}
-      \field{pages}{1\bibrangedash 168}
-      \range{pages}{168}
+      \field{issn}{1550-2368}
+      \field{journaltitle}{Physical Review D}
+      \field{month}{12}
+      \field{number}{11}
+      \field{title}{Single-spin asymmetries: The Trento conventions}
+      \field{volume}{70}
+      \field{year}{2004}
       \verb{doi}
-      \verb 10.1016/s0370-1573(01)00051-5
+      \verb 10.1103/physrevd.70.117504
       \endverb
       \verb{urlraw}
-      \verb http://dx.doi.org/10.1016/S0370-1573(01)00051-5
+      \verb http://dx.doi.org/10.1103/PhysRevD.70.117504
       \endverb
       \verb{url}
-      \verb http://dx.doi.org/10.1016/S0370-1573(01)00051-5
+      \verb http://dx.doi.org/10.1103/PhysRevD.70.117504
+      \endverb
+    \endentry
+    \entry{Diehl}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8788f23bb6883351e83deed5afeb80a1}{%
+           family={Diehl},
+           familyi={D\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6ba807a26ac8ee555e08cf87b88ecdf3}{%
+           family={Sapeta},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{3b0e363c3a20c6f1b2886d40308ab47c}
+      \strng{fullhash}{3b0e363c3a20c6f1b2886d40308ab47c}
+      \strng{bibnamehash}{3b0e363c3a20c6f1b2886d40308ab47c}
+      \strng{authorbibnamehash}{3b0e363c3a20c6f1b2886d40308ab47c}
+      \strng{authornamehash}{3b0e363c3a20c6f1b2886d40308ab47c}
+      \strng{authorfullhash}{3b0e363c3a20c6f1b2886d40308ab47c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1434-6052}
+      \field{journaltitle}{The European Physical Journal C}
+      \field{month}{6}
+      \field{number}{4}
+      \field{title}{On the analysis of lepton scattering on longitudinally or transversely polarized protons}
+      \field{volume}{41}
+      \field{year}{2005}
+      \field{pages}{515\bibrangedash 533}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1140/epjc/s2005-02242-9
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1140/epjc/s2005-02242-9
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1140/epjc/s2005-02242-9
       \endverb
     \endentry
   \enddatalist
