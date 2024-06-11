@@ -1,23 +1,23 @@
 \babel@toc {russian}{}\relax 
-\contentsline {section}{Введение}{5}{}%
-\contentsline {section}{\numberline {1}Глубоко неупругое рассеяние}{8}{}%
-\contentsline {subsection}{\numberline {1.1}Кинематика глубоко неупругого рассеяния}{8}{}%
-\contentsline {subsection}{\numberline {1.2}Сечение глубоко неупругого рассеяния}{11}{}%
-\contentsline {subsubsection}{\numberline {1.2.1}Сечение рассеяния в приближении Мотта}{11}{}%
-\contentsline {subsubsection}{\numberline {1.2.2}Расчёт сечения глубоко неупругого рассеяния}{14}{}%
-\contentsline {section}{\numberline {2}Партонная модель}{16}{}%
-\contentsline {subsection}{\numberline {2.1}Скейлинг Бьёркена и структурные функции}{16}{}%
-\contentsline {subsection}{\numberline {2.2}Партонные функции распределения}{17}{}%
-\contentsline {subsubsection}{\numberline {2.2.1}Коллинеарные партонные функции}{18}{}%
-\contentsline {subsection}{\numberline {2.3}Поляризация частиц}{19}{}%
-\contentsline {subsection}{\numberline {2.4}Адронизация}{23}{}%
-\contentsline {subsubsection}{\numberline {2.4.1}Модель адронизации Лунда}{25}{}%
-\contentsline {subsubsection}{\numberline {2.4.2}Модель 3P0}{27}{}%
-\contentsline {section}{\numberline {3}Азимутальные асимметрии}{28}{}%
-\contentsline {subsection}{\numberline {3.1}Полуинклюзивное глубоко неупругое рассеяние}{28}{}%
-\contentsline {subsection}{\numberline {3.2}Измерение азимутальных асимметрий}{33}{}%
-\contentsline {subsection}{\numberline {3.3}Асимметрия Сиверса}{33}{}%
-\contentsline {section}{\numberline {4}Методика исследования}{34}{}%
-\contentsline {subsection}{\numberline {4.1}Поляризация в PYTHIA8}{34}{}%
-\contentsline {subsection}{\numberline {4.2}Расчёт асимметрии Сиверса в PYTHIA8}{34}{}%
-\contentsline {section}{Заключение}{35}{}%
+\contentsline {section}{Введение}{5}{Doc-Start}%
+\contentsline {section}{\numberline {1}Глубоко неупругое рассеяние}{8}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Кинематика глубоко неупругого рассеяния}{8}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Сечение глубоко неупругого рассеяния}{11}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Сечение рассеяния в приближении Мотта}{11}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Расчёт сечения глубоко неупругого рассеяния}{14}{subsubsection.1.2.2}%
+\contentsline {section}{\numberline {2}Партонная модель}{17}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Скейлинг Бьёркена и структурные функции}{17}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Партонные функции распределения}{18}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Коллинеарные партонные функции}{19}{subsubsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.3}Поляризация частиц}{20}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Адронизация}{25}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Модель адронизации Лунда}{26}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Модель 3P0}{28}{subsubsection.2.4.2}%
+\contentsline {section}{\numberline {3}Азимутальные асимметрии}{29}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Полуинклюзивное глубоко неупругое рассеяние}{29}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Измерение азимутальных асимметрий}{34}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Асимметрия Сиверса}{34}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Методика исследования}{36}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Поляризация в PYTHIA8}{36}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Расчёт асимметрии Сиверса в PYTHIA8}{36}{subsection.4.2}%
+\contentsline {section}{Заключение}{37}{subsection.4.2}%
